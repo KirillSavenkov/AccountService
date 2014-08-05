@@ -18,7 +18,7 @@ Running the application.
 
 
 To the run application run executable jar-file Server.jar using console. Server is ready to serve clients after "Server is ready to server client." appers in console. It make take a few seconds.
-Windows users can simply use bat-file "RunServer.bat".
+Windows users can simply run bat-file "RunServer.bat".
 
 
 Server configurations.
