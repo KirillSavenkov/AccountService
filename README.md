@@ -12,6 +12,8 @@ Current release consists of 3 open-source applications:
 
 - Test client application. Optional. Is to be installed on client machine. Simulates group of clients sending requests to server at once. Allows to test server under high loading.
 
+File AccountService.pdf is report about testing in Russian.
+
 Folder ServerSource contains source of application for server.
 
 Folder ClientSource contains source of application for client and test client.
