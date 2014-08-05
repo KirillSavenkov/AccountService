@@ -17,7 +17,7 @@ To check your JRE version input "java -version" in console.
 Running the application.
 
 
-To run application run executable jar-file Server.jar using console. Server is ready to serve clients after "Server is ready to server client." appers in console. It make take a few seconds.
+To the run application run executable jar-file Server.jar using console. Server is ready to serve clients after "Server is ready to server client." appers in console. It make take a few seconds.
 Windows users can simply use bat-file "RunServer.bat".
 
 
