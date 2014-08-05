@@ -1,0 +1,6 @@
+Database username: root
+Database password: 
+Database url: localhost
+Database name: usersAmounts
+Number of serving threads: 10
+Cache maximum size: 10000

@@ -1,0 +1,5 @@
+Minimal allowed id: -11111111
+Maximal allowed id: 11111111
+Maximal allowed "get" requests: 11111111
+Maximal allowed "add" requests: 11111111
+Server address: localhost
