@@ -14,7 +14,7 @@ System requirements.
 To check your JRE version input "java -version" in console.
 
 
-Running application.
+Running the application.
 
 
 To run application run executable jar-file Server.jar using console. Server is ready to serve clients after "Server is ready to server client." appers in console. It make take a few seconds.
